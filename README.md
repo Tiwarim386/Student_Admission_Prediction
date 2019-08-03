@@ -15,6 +15,6 @@ A 2-layer Neural network which Predicts whether the student will get admitted to
   
   # Here is how the data looks like
   
-      ![Data](howdatalooks.PNG)
+      ![Data](master/howdatalooks.PNG)
       
       
