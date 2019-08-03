@@ -15,6 +15,6 @@ A 2-layer Neural network which Predicts whether the student will get admitted to
   
   # Here is how the data looks like
   
-      ![Data](/master/howdatalooks.PNG)
+      ![Data](https://github.com/Tiwarim386/Student_Admission_Prediction/blob/master/howdatalooks.PNG)
       
       
