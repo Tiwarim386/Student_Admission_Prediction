@@ -18,3 +18,12 @@ A 2-layer Neural network which Predicts whether the student will get admitted to
       ![Data](https://github.com/Tiwarim386/Student_Admission_Prediction/blob/master/howdatalooks.PNG)
       
       
+      
+   # It seems that the lower the rank, the higher the acceptance rate. So we'll use the rank as one of our inputs.
+   
+    Here is how the data looks when rank is fixed.
+    
+   
+    ![rank1](https://github.com/Tiwarim386/Student_Admission_Prediction/blob/master/rank1.PNG)
+      
+      
